@@ -15,7 +15,6 @@ I am an aspiring **System Administrator** with hands-on experience in **Windows 
 - Configured a **USB block policy** using GPO to prevent unauthorized storage devices.
 - Verified GPO enforcement with **gpupdate /force** and **gpresult /r**.
 
-🔗 **[Project Repository](https://github.com/YOUR_USERNAME/active-directory-gpo)**
 
 ---
 
@@ -27,7 +26,6 @@ I am an aspiring **System Administrator** with hands-on experience in **Windows 
 - Created a MySQL database for osTicket and optimized performance.
 - Tested the ticketing workflow by submitting and resolving tickets.
 
-🔗 **[Project Repository](https://github.com/YOUR_USERNAME/osticket-deployment)**
 
 ---
 
