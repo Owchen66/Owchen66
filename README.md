@@ -29,6 +29,12 @@ I am an aspiring **System Administrator** with hands-on experience in **Windows 
 
 [🔗 View My Project Repository](https://github.com/Owchen66/OSTicketLabUbuntu.git)
 
+3️⃣ **Windows Server AD DS & DNS Lab**  
+✅ **Description:**
+Built and configured a Windows Server 2022 virtual machine as a domain controller using Active Directory Domain Services (AD DS) and DNS. Promoted the server to a new forest and domain (`Bryhams-corp.local`), validated DNS resolution, and successfully joined a Windows 10 client to the domain. Documented and automated the process using PowerShell for repeatability and created a GitHub project to showcase the full lab.
+[🔗 View My Project Repository](https://github.com/Owchen66/windows-server-ad-ds-lab.git)
+
+
 ---
 
 ## 📚 Skills & Technologies
