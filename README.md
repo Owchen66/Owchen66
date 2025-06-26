@@ -1,6 +1,6 @@
 # Hi, I'm Bryham - Aspiring Network & Security Engineer!
 
-## 🚀 My Focus
+## My Focus
 I am an aspiring **Network and Security Engineer** passionate about building, securing, and optimizing robust IT infrastructures. My experience spans **Windows Server, Active Directory, Group Policy, and Linux administration**, with a strong drive to master **network defense, system hardening, and automation** in enterprise environments.
 
 ## 🏆 Certifications
