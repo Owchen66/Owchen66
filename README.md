@@ -1,47 +1,57 @@
-# Hi I'm Bryham!
+# Hi, I'm Bryham - Aspiring Network & Security Engineer!
 
-## 💼 About Me
-I am an aspiring **System Administrator** with hands-on experience in **Windows Server, Active Directory, Group Policy, and Linux administration**. My goal is to continuously learn and improve my skills in **IT infrastructure, automation, and security** to support enterprise environments.
+## 🚀 My Focus
+I am an aspiring **Network and Security Engineer** passionate about building, securing, and optimizing robust IT infrastructures. My experience spans **Windows Server, Active Directory, Group Policy, and Linux administration**, with a strong drive to master **network defense, system hardening, and automation** in enterprise environments.
 
 ## 🏆 Certifications
 - **CompTIA A+ Certified** ✅
-  
-## 🔧 Projects
-### **1️⃣ Active Directory & Group Policy Implementation (Windows Server 2019)**
+- **Google Cybersecurity Professional Certificate** ✅
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** ✅
+  
+## 💡 Currently Learning & Expanding Skills
+Actively delving into advanced cybersecurity topics and tools, including:
+- **Offensive Security Tools:** Kali Linux, Nmap (network scanning), Wireshark (packet analysis)
+- **Cybersecurity Fundamentals:** Concepts covered in CompTIA Security+ (threats, attacks, vulnerabilities, architecture, operations, and compliance)
+- **Cloud Security:** Further exploration of Azure security services and best practices.
+
+## 🔒 Key Projects in Network & Security
+### **1️⃣ Active Directory & Group Policy for Enhanced Security (Windows Server 2019)**
 ✅ **Description:**
-- Installed and configured **Active Directory Domain Services (AD DS)** using **PowerShell automation**.
-- Created and managed **Organizational Units (OUs)**, **users**, and **security groups**.
-- Implemented **Group Policy Objects (GPOs)** to enhance security and enforce policies.
-- Configured a **USB block policy** using GPO to prevent unauthorized storage devices.
-- Verified GPO enforcement with **gpupdate /force** and **gpresult /r**.
+- Installed and configured **Active Directory Domain Services (AD DS)** with a focus on secure deployments via **PowerShell automation**.
+- Engineered and managed **Organizational Units (OUs)**, **users**, and **security groups** following **least privilege principles**.
+- Deployed and enforced **Group Policy Objects (GPOs)** to fortify **system security**, including implementing a **USB block policy** to prevent data exfiltration.
+- Validated GPO enforcement using `gpupdate /force` and `gpresult /r`, ensuring effective security posture.
 
 [🔗 View My Project Repository](https://github.com/Owchen66/ActiveDirectoryLab.git)
 
 ---
 
-### **2️⃣ osTicket Help Desk Deployment (Ubuntu & LAMP Stack)**
+### **2️⃣ Secure osTicket Help Desk Deployment (Ubuntu & LAMP Stack)**
 ✅ **Description:**
-- Deployed and configured **osTicket**, an open-source IT support ticketing system, on **Ubuntu Server**.
-- Installed and managed the **LAMP stack** (Linux, Apache, MySQL, PHP) to support osTicket functionality.
-- Configured **Apache Virtual Hosts** and secured **file permissions**.
-- Created a MySQL database for osTicket and optimized performance.
-- Tested the ticketing workflow by submitting and resolving tickets.
+- Deployed and configured **osTicket**, an open-source IT support ticketing system, on **Ubuntu Server** with a strong emphasis on security.
+- Installed and managed the **LAMP stack** (Linux, Apache, MySQL, PHP), applying **security configurations** to each component.
+- Secured **Apache Virtual Hosts** and **hardened file permissions** to protect against common web vulnerabilities.
+- Established a **secure MySQL database** for osTicket, ensuring data integrity and access control.
+- Tested the ticketing workflow, validating both functionality and security considerations.
 
 [🔗 View My Project Repository](https://github.com/Owchen66/OSTicketLabUbuntu.git)
 
-3️⃣ **Windows Server AD DS & DNS Lab**  
+---
+
+3️⃣ **Windows Server AD DS & DNS: Building Secure Network Foundations**  
 ✅ **Description:**
-Built and configured a Windows Server 2022 virtual machine as a domain controller using Active Directory Domain Services (AD DS) and DNS. Promoted the server to a new forest and domain (`Bryhams-corp.local`), validated DNS resolution, and successfully joined a Windows 10 client to the domain. Documented and automated the process using PowerShell for repeatability and created a GitHub project to showcase the full lab.
+Architected and configured a Windows Server 2022 virtual machine as a **domain controller**, leveraging **Active Directory Domain Services (AD DS)** and **DNS** to establish a secure and reliable network backbone. Successfully promoted the server to a new forest and domain (`Bryhams-corp.local`), meticulously validated **DNS resolution and secure client integration**, and seamlessly joined a Windows 10 client to the domain. The entire process was documented and automated using PowerShell, providing a repeatable blueprint for **secure domain deployments**.
 [🔗 View My Project Repository](https://github.com/Owchen66/windows-server-ad-ds-lab.git)
 
 
 ---
 
-## 📚 Skills & Technologies
-- **Operating Systems:** Windows Server, Linux (Ubuntu, Debian)
-- **Networking:** Active Directory, Group Policy, DNS, DHCP
-- **Automation & Scripting:** PowerShell, Bash
-- **Web & Database:** Apache, MySQL, PHP
-- **Security & Policies:** User permissions, GPO enforcement
+## 🛠️ Network & Security Toolbelt
+- **Operating Systems:** Windows Server, Linux (Ubuntu, Debian, **Kali Linux**)
+- **Core Networking:** Active Directory, Group Policy, DNS, DHCP, **Network Topology Concepts**, **Packet Analysis (Wireshark)**
+- **Cybersecurity:** **Security Information and Event Management (SIEM) Concepts**, **Threat Analysis**, **Vulnerability Scanning (Nmap)**, **System Hardening**, **User Access Management (UAM)**, **GPO Security Policies**, **Cloud Security (Azure)**
+- **Automation & Scripting:** PowerShell, Bash, Python (foundational)
+- **Cloud Platforms:** Microsoft Azure (Fundamentals)
+- **Web Technologies:** Apache, MySQL, PHP
 
-📩 **Feel free to connect!**
+📩 **Let's connect and discuss network & security!**
