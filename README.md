@@ -21,8 +21,8 @@ Actively delving into advanced cybersecurity topics and automation, including:
 
 ---
 
-## 🔒 Key Projects in Network & Security
-### **1️⃣ Active Directory & Group Policy for Enhanced Security (Windows Server 2019)**
+## 🔒 Key Projects
+### **1️⃣ Active Directory & Group Policy (Windows Server 2019)**
 ✅ **Description:**
 - Installed and configured **Active Directory Domain Services (AD DS)** with a focus on secure deployments via **PowerShell automation**.
 - Engineered and managed **Organizational Units (OUs)**, **users**, and **security groups** following **least privilege principles**.
@@ -45,7 +45,7 @@ Actively delving into advanced cybersecurity topics and automation, including:
 
 ---
 
-### **3️⃣ Windows Server AD DS & DNS: Building Secure Network Foundations**
+### **3️⃣ Windows Server AD DS & DNS**
 ✅ **Description:**
 Architected and configured a Windows Server 2022 virtual machine as a **domain controller**, leveraging **Active Directory Domain Services (AD DS)** and **DNS** to establish a secure and reliable network backbone. Successfully promoted the server to a new forest and domain (`Bryhams-corp.local`), meticulously validated **DNS resolution and secure client integration**, and seamlessly joined a Windows 10 client to the domain. The entire process was documented and automated using PowerShell, providing a repeatable blueprint for **secure domain deployments**.
 
