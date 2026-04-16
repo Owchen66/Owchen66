@@ -22,9 +22,7 @@ Splunk • Microsoft Sentinel • Wireshark • Defender • Python • PowerShe
 
 ### Projects
 - Detection rules & SIEM use cases  
-- Threat hunting queries  
-- Incident response notes  
-- Security automation scripts  
+
 
 ---
 
